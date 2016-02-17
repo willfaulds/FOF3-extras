@@ -1,5 +1,5 @@
 # Projects using FOF
-Name (link) date
+Name (link) date FOF version checked
 
 #FOF 3.x
 * Akeeba Subscriptions (https://github.com/akeeba/akeebasubs/) Feb2016
