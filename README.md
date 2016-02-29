@@ -6,3 +6,7 @@ Collection of examples and useful code snippets for Akeeba F0F/FOF (focusing on 
 
 [List of full/realworld projects built with FOF] (https://github.com/willfaulds/FOF3-extras/blob/master/Full%20projects%20using%20FOF.md)
 
+###Other Joomla bits
+
+`Lendr` Joomla component tutorial (not using FOF), incomplete but explains some Joomla conventions (https://github.com/sparkbuilt/lendr/)
+
