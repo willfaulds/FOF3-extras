@@ -8,5 +8,6 @@ Collection of examples and useful code snippets for Akeeba F0F/FOF (focusing on 
 
 ###Other Joomla bits
 
+Joomla component tutorial (not using FOF), (https://docs.joomla.org/J3.x:Developing_an_MVC_Component/)
 `Lendr` Joomla component tutorial (not using FOF), incomplete but explains some Joomla conventions (https://github.com/sparkbuilt/lendr/)
 
